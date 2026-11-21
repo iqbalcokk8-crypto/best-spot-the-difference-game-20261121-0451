@@ -1,0 +1,7 @@
+scene 1: {"screen":"sceneDone","found":7}
+scene 2: {"screen":"sceneDone","found":7}
+scene 3: {"screen":"sceneDone","found":7}
+FINAL: {"screen":"results","score":11270,"totalFound":21,"totalClicks":21,"totalTimeUsed":28,"sceneStars":[3,3,3]}
+results text: Skor akhir 11270 poin dari 3 scene di Kota Senja. | 21/21 100% 0:28 ★★★
+saved real 4-results.jpg
+page errors: none
